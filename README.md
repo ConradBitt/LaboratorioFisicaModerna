@@ -1,5 +1,5 @@
 # LaboratorioFisicaModerna
-Guardar Notebooks sobre aulas de Física Moderna.
+Repositorio criado para guardar notebooks que escrevi sobre as aulas de Física Moderna.
 
 ## Referências
 
